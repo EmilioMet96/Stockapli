@@ -5,3 +5,14 @@ font-family: 'Courier New', Courier, monospace;
 font-weight: 800;
 
 }
+.Inputs
+{
+display: flex;
+flex-direction: column;
+max-width: 5cm;
+}
+input{
+    margin-bottom:0.1cm;
+
+
+}
